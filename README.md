@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<image 
+  src="https://user-images.githubusercontent.com/67178982/102009228-56b56e00-3d79-11eb-9466-6c4f32712da4.jpg"
+  height="100"
+  width="100"
+>
 <!--
 **joielee09/joielee09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
