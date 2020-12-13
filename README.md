@@ -4,9 +4,6 @@
 ## Current Status
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joielee09&show_icons=true&theme=radical)
 
-## 👸 Most men gamble with her and gain all , and lose all, as her wheel rolls... 
-- waldo emrson
-
 #### porfolio page: https://joielee09.github.io/githubpages/
 ## Main Stack
 <image src="https://user-images.githubusercontent.com/67178982/102009421-a47ea600-3d7a-11eb-9f2c-24f8ea7f15a8.png" height="80" width="80">  <image src="https://user-images.githubusercontent.com/67178982/102009430-bb24fd00-3d7a-11eb-8078-d1dbfc9e4671.png" height="80" width="80">
@@ -23,3 +20,6 @@
 ##### 📫 How to reach me: ... email me @ 2j00923@gmail.com
 ##### 😄 Pronouns: ...
 ##### ⚡ Fun fact: ... I am an alien 👽
+
+## 👸 the man who stands on his feet is stronger than a man who stands on his head
+waldo emrson
