@@ -1,4 +1,4 @@
-# Joielee: Frontend Engineer
+# JaeYoung LEE
 <!-- <image src="https://user-images.githubusercontent.com/67178982/102009228-56b56e00-3d79-11eb-9466-6c4f32712da4.jpg" height="150" width="200"> -->
 
 ## Current Status
