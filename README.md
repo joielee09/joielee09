@@ -1,6 +1,6 @@
 # JaeYoung LEE
 
-✨ 재밌는 변론을 즐기는 ENTP ✨<br/>
+✨ ENTP ✨<br/>
 ![image](https://user-images.githubusercontent.com/67178982/120576153-44c9a380-c45d-11eb-9f1a-0e38e40e5e06.png)
 <!-- <image src="https://i.redd.it/38e9xo9shoi61.png" height="150" width="200"> -->
 <!-- <image src="https://user-images.githubusercontent.com/67178982/102009228-56b56e00-3d79-11eb-9466-6c4f32712da4.jpg" height="150" width="200"> -->
