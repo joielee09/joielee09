@@ -1,7 +1,7 @@
 # ✨ About Repository
 
 ### Certificate:
-  - AWS Certified Cloud Practitioner
+  - [AWS Certified Cloud Practitioner](https://github.com/joielee09/joielee09/blob/f2b3f3ecaa052483013fdeebfb2d2c792bbc11ce/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
 ### Projects:
   - [Calculator App for Recipe Engineering, Korean, Node, ReactNative, Serverless(Published)](https://github.com/joielee09/-DEV-bakers-percent-calculator-pro)
@@ -12,8 +12,6 @@
   - [NextJS-template](https://github.com/joielee09/NextJS-template)
 
 ### Data Science:
-  - Image Detection
-  - Image Segmentation
   - [Kaggle 30 days of ML](https://github.com/joielee09/Kaggle_30DaysOfML)
 
 ### Problem Solving:
