@@ -1,9 +1,26 @@
-# JaeYoung LEE
+# ✨ About Repository
 
-✨ ENTP ✨<br/>
-![image](https://user-images.githubusercontent.com/67178982/120576153-44c9a380-c45d-11eb-9f1a-0e38e40e5e06.png)
-<!-- <image src="https://i.redd.it/38e9xo9shoi61.png" height="150" width="200"> -->
-<!-- <image src="https://user-images.githubusercontent.com/67178982/102009228-56b56e00-3d79-11eb-9466-6c4f32712da4.jpg" height="150" width="200"> -->
+### Certificate:
+  - AWS Certified Cloud Practitioner
+
+### Projects:
+  - Calculator App for Recipe Engineering, Korean, Node, ReactNative, Serverless(Published)
+  - Music Player App, English, ReactNative, FrontEnd Only(Published)
+  - AWS Prep Application, English, Spring Boot, ReactJS, ReactNative, Web and App
+  
+### Templates:
+  - NextJS-template
+
+### Data Science:
+  - Image Detection
+  - Image Segmentation
+  - Kaggle 30 days of ML
+
+### Problem Solving:
+  - PS Repository
+
+
+# ✨ About Me
 
 ## Current Status
 <!-- ![joie's github stats](https://github-readme-stats.vercel.app/api?username=joielee09&show_icons=true&theme=radical) -->
