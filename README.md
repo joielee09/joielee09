@@ -4,21 +4,21 @@
   - AWS Certified Cloud Practitioner
 
 ### Projects:
-  - Calculator App for Recipe Engineering, Korean, Node, ReactNative, Serverless(Published)
-  - Music Player App, English, ReactNative, FrontEnd Only(Published)
+  - [Calculator App for Recipe Engineering, Korean, Node, ReactNative, Serverless(Published)](https://github.com/joielee09/-DEV-bakers-percent-calculator-pro)
+  - [Music Player App, English, ReactNative, FrontEnd Only(Published)](https://github.com/joielee09/-DEV-balletWorkoutRoutine)
   - AWS Prep Application, English, Spring Boot, ReactJS, ReactNative, Web and App
   
 ### Templates:
-  - NextJS-template
+  - [NextJS-template](https://github.com/joielee09/NextJS-template)
 
 ### Data Science:
   - Image Detection
   - Image Segmentation
-  - Kaggle 30 days of ML
+  - [Kaggle 30 days of ML](https://github.com/joielee09/Kaggle_30DaysOfML)
 
 ### Problem Solving:
-  - PS Repository
-
+  - [PS Repository](https://github.com/joielee09/-PS-problemsolving)
+  - [Algorithms implemented in Python](https://github.com/joielee09/algorithms_in_python)
 
 # ✨ About Me
 
