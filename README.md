@@ -3,7 +3,7 @@
 ### Certificate:
   - [AWS Certified Cloud Practitioner](https://github.com/joielee09/joielee09/blob/f2b3f3ecaa052483013fdeebfb2d2c792bbc11ce/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
-### Projects:
+### Applications:
   - [Calculator App for Recipe Engineering, Korean, Node, ReactNative, Serverless(Published)](https://github.com/joielee09/-DEV-bakers-percent-calculator-pro)
   - [Music Player App, English, ReactNative, FrontEnd Only(Published)](https://github.com/joielee09/-DEV-balletWorkoutRoutine)
   - AWS Prep Application, English, Spring Boot, ReactJS, ReactNative, Web and App
