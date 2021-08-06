@@ -13,11 +13,12 @@
 
 ### Data Science:
   - [Kaggle 30 days of ML](https://github.com/joielee09/Kaggle_30DaysOfML)
+  - [high-performance-python](https://github.com/joielee09/high-performance-python)
 
 ### Problem Solving:
   - [PS Repository](https://github.com/joielee09/-PS-problemsolving)
   - [Algorithms implemented in Python](https://github.com/joielee09/algorithms_in_python)
-  - [high-performance-python](https://github.com/joielee09/high-performance-python)
+
 
 ### OpenSource:
 <br/><br/><br/>
