@@ -10,7 +10,7 @@
   
 ### Templates:
   - [NextJS-template](https://github.com/joielee09/NextJS-template)
-  - [springboot with JDBC](https://github.com/joielee09/springboot-JDBC)
+  - [springboot with JPA](https://github.com/joielee09/springboot-jpa)
 
 ### Data Science:
   - [Kaggle 30 days of ML](https://github.com/joielee09/Kaggle_30DaysOfML)
