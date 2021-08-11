@@ -11,6 +11,7 @@
 ### Templates:
   - [NextJS-template](https://github.com/joielee09/NextJS-template)
   - [springboot with JPA](https://github.com/joielee09/springboot-jpa)
+  - [SpringBoot_MVC](https://github.com/joielee09/SpringBoot_MVC)
 
 ### Data Science:
   - [Kaggle 30 days of ML](https://github.com/joielee09/Kaggle_30DaysOfML)
